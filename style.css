@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Bubblegum+Sans&family=Roboto:ital,wght@0,300;0,400;1,100;1,300&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+body{
+    background: linear-gradient(68.15deg, #2F2325 16.62%, #8E5D52 85.61%);
+}
+
+header h1{
+    color: #fff;
+    text-align: center;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+header p{
+    color: #fff;
+    text-align: center;
+    line-height: 1.5rem;
+}
+
+#inputUser{
+    height: 2rem;
+    width: 50rem;
+    margin-top: 3rem;
+    left: 5rem;
+
+
+}
+
+.img-pencil {
+    height: 2rem;
+    width: 2rem;
+}
+
+
+
+
+
+
+
+.done {
+    background: #51DF70;
+    color: #00891E;
+}
+
+.delete {
+    display: none;
+}
