@@ -21,7 +21,7 @@ function createElement() {
     li.addEventListener("click", crossOut);
 
     let deleteBtn = document.createElement("button");
-    deleteBtn.appendChild(document.createTextNode("X"));
+    deleteBtn.appendChild(document.createTextNode(" "));
     li.appendChild(deleteBtn);
     deleteBtn.addEventListener("click", deleteItem);
 

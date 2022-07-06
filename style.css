@@ -30,6 +30,35 @@ header p{
     width: 50rem;
     margin-top: 3rem;
     left: 5rem;
+    padding: 5px;
+    
+}
+
+li {
+    margin: 0 auto;
+    margin-top: 1rem;
+    color: #fff;
+    border: 2px solid #025f70;
+    border-radius: 5px;
+    background: #4EB9CD;
+    width: 90%;
+    list-style: none;
+    height: 2rem;
+    padding: 5px;
+    transition: all 0.75s ease;
+}
+
+li button {
+    border: none;
+    background: none;
+    font-size: 1em;
+    cursor: pointer;
+    display: inline-block;
+    float: right;
+    width: 1rem;
+    color: #025f70;
+    background-image: url("./images/trash.svg"); 
+    background-repeat: no-repeat;
 
 
 }
@@ -37,17 +66,20 @@ header p{
 .img-pencil {
     height: 2rem;
     width: 2rem;
+    border-radius: 100%;
+    cursor: pointer;
+    border: none;
 }
 
-
-
-
-
-
+.content {
+    margin: 0 auto;
+    width: 70%;
+}
 
 .done {
     background: #51DF70;
     color: #00891E;
+    text-decoration: line-through;
 }
 
 .delete {
