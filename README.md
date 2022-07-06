@@ -19,7 +19,9 @@ Desenvolvido com HTML, CSS e JS.
 Inicialmente utilizado HTML e suas tags semânticas para montagem do corpo da página. No CSS, utilizado recursos para estilização e efeitos animados para garantir uma experiência ao usuário mais eficaz. Além de criar a aplicação de maneira responsiva, utilizando o processo de Mobile First. E por fim, trabalhado com funções, manipulação de DOM e condições booleanas dentro do Java Script.
   
  Interface:
-  
+ 
+ ![To do List](https://user-images.githubusercontent.com/105398640/177614163-aa4b5e4c-85cc-41b7-9bf9-f4bcd5a4e658.jpg)
+
 
 
 
