@@ -1,0 +1,16 @@
+@media (max-width: 500px) {
+  .content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-items: center;
+  }
+  #inputUser {
+    width: 20rem;
+  }
+
+  .img-pencil {
+    margin-top: 3rem;
+    margin-left: 0.5rem;
+  }
+}
